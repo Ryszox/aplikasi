@@ -1,5 +1,5 @@
 {
-  "server_url": "203.175.125.213:3054",
+  "server_url": "203.175.125.213:3080",
   "base_url": "http://{server_url}",
   "ws_url": "wss://ws-{server_url}"
 }
