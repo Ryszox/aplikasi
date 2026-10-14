@@ -1,4 +1,5 @@
-{ 
-  "domain": "http://reviactyserver.szxennofficialid.web.id",
-  "port": 3037
+{
+  "domain": "203.175.125.213",
+  "port": 3036,
+  "dramaUpstream": "http://203.175.125.213:3036"
 }
